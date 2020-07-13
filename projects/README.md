@@ -232,7 +232,7 @@ Week one begins on the morning of curriculum day two (project day one). During t
 
 **Project mentors will be selected algorithmically over the weekend between Project Day 4 and 5.**
 
-### **Week One** Implement and Present 
+## **Weeks Two and Three** Implement and Present 
 
 * **Project days 5-13**: Implement
   	* Check in with each project every day for at least 30 min.
